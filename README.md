@@ -1,5 +1,5 @@
-# N-Queens Visual Solver
-
+# N-Queens Visual Solver 
+#DAA project
 This is a Python Tkinter-based Visualizer that demonstrates how the **Backtracking algorithm** solves the classic N-Queens problem step by step.
 
 ## What is the N-Queens Problem?
