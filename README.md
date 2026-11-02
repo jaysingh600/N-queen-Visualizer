@@ -9,7 +9,7 @@ The N-Queens problem requires placing $N$ chess queens on an $N \times N$ chessb
 - Diagonal
 
 ## Backtracking Algorithm Explanation
-Backtracking is a systematic way of trying out different possible solutions to a problem and discarding them ("backtracking") as soon as we realize they cannot lead to a valid solution. 
+Backtracking Algorithm is a systematic way of trying out different possible solutions to a problem and discarding them ("backtracking") as soon as we realize they cannot lead to a valid solution. 
 
 In the N-Queens problem:
 1. **Start** in the leftmost column (or topmost row).
